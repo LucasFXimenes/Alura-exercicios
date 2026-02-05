@@ -15,7 +15,7 @@ class ContaBancaria:
 
 
 conta1 = ContaBancaria('Lucas Freitas', 10000)
-conta2 = ContaBancaria('Raphael Junior',5000)
+conta2 = ContaBancaria('Raphael Junior')
 print(conta1)
 
 validacao = input('Deseja ativar a conta? (sim/não): ').lower()
